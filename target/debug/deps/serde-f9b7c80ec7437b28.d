@@ -1,0 +1,12 @@
+/home/jefferson/Documentos/Arquitetura/Projeto_MBR/projeto/extracao/mbr-yfinance/target/debug/deps/serde-f9b7c80ec7437b28.d: /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/jefferson/Documentos/Arquitetura/Projeto_MBR/projeto/extracao/mbr-yfinance/target/debug/build/serde-46367230ef002103/out/private.rs
+
+/home/jefferson/Documentos/Arquitetura/Projeto_MBR/projeto/extracao/mbr-yfinance/target/debug/deps/libserde-f9b7c80ec7437b28.rmeta: /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/jefferson/Documentos/Arquitetura/Projeto_MBR/projeto/extracao/mbr-yfinance/target/debug/build/serde-46367230ef002103/out/private.rs
+
+/home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/home/jefferson/Documentos/Arquitetura/Projeto_MBR/projeto/extracao/mbr-yfinance/target/debug/build/serde-46367230ef002103/out/private.rs:
+
+# env-dep:OUT_DIR=/home/jefferson/Documentos/Arquitetura/Projeto_MBR/projeto/extracao/mbr-yfinance/target/debug/build/serde-46367230ef002103/out

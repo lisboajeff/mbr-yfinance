@@ -1,0 +1,9 @@
+/home/jefferson/Documentos/Arquitetura/Projeto_MBR/projeto/extracao/mbr-yfinance/target/debug/deps/tokio_rustls-c101d7bf23000072.d: /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.26.6/src/lib.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.26.6/src/client.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.26.6/src/common/mod.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.26.6/src/common/handshake.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.26.6/src/server.rs
+
+/home/jefferson/Documentos/Arquitetura/Projeto_MBR/projeto/extracao/mbr-yfinance/target/debug/deps/libtokio_rustls-c101d7bf23000072.rmeta: /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.26.6/src/lib.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.26.6/src/client.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.26.6/src/common/mod.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.26.6/src/common/handshake.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.26.6/src/server.rs
+
+/home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.26.6/src/lib.rs:
+/home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.26.6/src/client.rs:
+/home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.26.6/src/common/mod.rs:
+/home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.26.6/src/common/handshake.rs:
+/home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tokio-rustls-0.26.6/src/server.rs:

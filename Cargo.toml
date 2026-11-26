@@ -1,0 +1,17 @@
+[package]
+name = "mbr-yfinance"
+version = "0.1.0"
+edition = "2024"
+description = "Cliente e parsers compartilhados para Yahoo Finance (chart e quoteSummary com cookie+crumb e rust_decimal) no projeto MBR"
+
+[features]
+default = ["client"]
+client = ["dep:reqwest", "dep:tokio"]
+
+[dependencies]
+reqwest = { version = "0.12", default-features = false, features = ["rustls-tls", "cookies", "json"], optional = true }
+rust_decimal = "1"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+thiserror = "2"
+tokio = { version = "1", features = ["sync"], optional = true }

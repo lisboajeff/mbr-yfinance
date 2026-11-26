@@ -1,0 +1,9 @@
+/home/jefferson/Documentos/Arquitetura/Projeto_MBR/projeto/extracao/mbr-yfinance/target/debug/deps/hyper_rustls-d5a0923495bfd059.d: /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.10/src/lib.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.10/src/config.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.10/src/connector.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.10/src/connector/builder.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.10/src/stream.rs
+
+/home/jefferson/Documentos/Arquitetura/Projeto_MBR/projeto/extracao/mbr-yfinance/target/debug/deps/libhyper_rustls-d5a0923495bfd059.rmeta: /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.10/src/lib.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.10/src/config.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.10/src/connector.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.10/src/connector/builder.rs /home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.10/src/stream.rs
+
+/home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.10/src/lib.rs:
+/home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.10/src/config.rs:
+/home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.10/src/connector.rs:
+/home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.10/src/connector/builder.rs:
+/home/jefferson/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hyper-rustls-0.27.10/src/stream.rs:
